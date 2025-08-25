@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>A FOFOQUEIRA</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<header>
+		<nav>
+			<img src="./img/Imagem do WhatsApp de 2025-08-06 à(s) 11.05.16_9c76119c.jpg" height="120px" width="120px">
+			<h1 class="logo"><b>A FOFOQUEIRA</b></h1>
+			<ul class="menu-nav">
+				<li><a href="./index.html">HOME</a></li>
+				<li><a href="./blog.html">BLOGS</a></li>
+				<li><a href="./sobre.html">SOBRE NÓS</a></li>
+				<li><a href="#">CONTATO</a></li>
+			</ul>
+		</nav>
+	</header>
+	
+	<main>
+
+		<section id="contato">
+			<h2>Fale Conosco</h2>
+			<p class="paragrafo-sobre">Quer mandar uma fofoca, sugerir uma pauta ou entrar em contato com a nossa equipe? Preencha o formulário abaixo ou use nossos canais oficiais.</p>
+
+			<form action="#" method="post" class="paragrafo-sobre">
+				<label for="nome">Nome:</label >
+				<input type="text" id="nome" name="nome" required>
+
+				<label for="email">E-mail:</label>
+				<input type="email" id="email" name="email" required>
+
+				<label for="mensagem">Mensagem:</label>
+				<textarea id="mensagem" name="mensagem" rows="5" required></textarea>
+
+				<button type="submit">Enviar Mensagem</button>
+			</form>
+		</section>
+
+	</main>
+	
+	<footer>
+		<strong>
+			<p>A Fofoqueira</p>
+			<p>São Paulo, SP, Brasil</p>
+			<p>Contato: (00)00000-0000</p>
+			<p>Whatsapp/Telegram: (00)00000-0000</p>
+			<p>&copy Marcos Vinícius, AFofoqueira 2025</p>
+			<p>&copy Luiz Paz, AFofoqueira 2025</p>
+			<p>&copy João Cabral, AFofoqueira 2025</p>
+			<p>&copy Todos os direitos reservados</p>
+		</strong>
+	</footer>
+
+</body>
+</html>
