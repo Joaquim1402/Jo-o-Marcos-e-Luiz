@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>A FOFOQUEIRA</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<header>
+		<nav>
+			<img src="./img/Imagem do WhatsApp de 2025-08-06 à(s) 11.05.16_9c76119c.jpg" height="120px" width="120px">
+			<h1 class="logo"><b>A FOFOQUEIRA</b></h1>
+			<ul class="menu-nav">
+				<li><a href="./index.html">HOME</a></li>
+				<li><a href="./blog.html">BLOGS</a></li>
+				<li><a href="#">SOBRE NÓS</a></li>
+				<li><a href="./contato.html">CONTATO</a></li>
+			</ul>
+		</nav>
+	</header>
+	
+	<main>
+
+		<section id="sobre">
+			<h2>Quem Somos</h2>
+			<p class="paragrafo-sobre">O portal <strong>A Fofoqueira</strong> nasceu para trazer as notícias mais quentes e divertidas do mundo das celebridades, com humor, leveza e um toque de ousadia. Nossa equipe é apaixonada por bastidores, histórias inusitadas e tudo que agita a vida dos famosos.</p>
+
+			<h3 class="paragrafo-sobre">Nossa Missão</h3>
+			<p class="paragrafo-sobre">Informar e entreter, levando sempre conteúdo atualizado e confiável (e claro, com aquele tempero que só a gente sabe dar!).</p>
+
+			<h3 class="paragrafo-sobre">Nossa Equipe</h3>
+			<ul class="paragrafo-sobre"> 
+				<li>Raldiney José</li>
+				<li>Tamires Souza</li>
+				<li>Kaunny Nataly</li>
+			</ul>
+		</section>
+
+	</main>
+	
+	<footer>
+		<strong>
+			<p>A Fofoqueira</p>
+			<p>São Paulo, SP, Brasil</p>
+			<p>Contato: (00)00000-0000</p>
+			<p>Whatsapp/Telegram: (00)00000-0000</p>
+			<p>&copy Luiz Paz, AFofoqueira 2025</p>
+			<p>&copy João Cabral, AFofoqueira 2025</p>
+			<p>&copy Marcos Vinícius, AFofoqueira 2025</p><
+			<p>&copy Todos os direitos reservados</p>
+		</strong>
+	</footer>
+
+</body>
+</html>
